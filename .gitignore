@@ -1,0 +1,15 @@
+# inv folders
+.idea/
+
+# lib folders
+node_modules
+
+# build folders
+public
+
+# config files
+.env
+
+# log files
+npm-debug.log
+
